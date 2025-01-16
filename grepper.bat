@@ -1,5 +1,5 @@
 :: Copyright (c) 2025 GivX
-:: This file is part of Codename Grepper.
+:: This file is part of Wii Grepper.
 :: It is used along with CMD to grep wifi credentials.
 
 :: @powershell -window Hidden -command "" & :: Uncomment this line to hide the window
